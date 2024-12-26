@@ -18,8 +18,5 @@
     "ms-vscode.cmake-tools",
     "ms-vscode.remote-containers"
   ],
-  "mounts": [
-    "source=${workspaceFolder},target=/workspace,type=bind"
-  ],
   "postCreateCommand": "echo 'Welcome to your C devcontainer!'"
 }

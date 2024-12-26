@@ -1,0 +1,3 @@
+D:/Programming Projects/C Projects/Tutorials/language Tuts/EasyCurl/cmake-build-debug/CMakeFiles/EasyCurl.dir
+D:/Programming Projects/C Projects/Tutorials/language Tuts/EasyCurl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming Projects/C Projects/Tutorials/language Tuts/EasyCurl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

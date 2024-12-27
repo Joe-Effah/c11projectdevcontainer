@@ -3,4 +3,4 @@ project(EasyCurl C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(EasyCurl main.c)
+add_executable(EasyCurl src/main.c)

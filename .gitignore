@@ -1,0 +1,38 @@
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+CMakeLists.txt.cmake
+CMakeLists.txt.in
+CTestTestfile.cmake
+
+# Build directories
+/build/
+*/build/
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.a
+*.lo
+*.lai
+*.so
+*.dylib
+*.dll
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Dependency directories (if using any package managers)
+/lib/
+external/
+
+# Backup files
+*~
+*.bak
+*.swp

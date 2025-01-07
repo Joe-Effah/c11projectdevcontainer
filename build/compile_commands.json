@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/Programming/Personal Projects/C Projects/Projects/EasyCurl/build",
-  "command": "D:\\Libraries\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\EasyCurl.dir\\src\\main.c.obj -c \"D:\\Programming\\Personal Projects\\C Projects\\Projects\\EasyCurl\\src\\main.c\"",
-  "file": "D:/Programming/Personal Projects/C Projects/Projects/EasyCurl/src/main.c",
-  "output": "CMakeFiles/EasyCurl.dir/src/main.c.obj"
-}
-]

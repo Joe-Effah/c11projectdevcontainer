@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\EasyCurl.dir/objects.a
-D:\Libraries\MinGW\bin\ar.exe qc CMakeFiles\EasyCurl.dir/objects.a @CMakeFiles\EasyCurl.dir\objects1.rsp
-D:\Libraries\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\EasyCurl.dir/objects.a -Wl,--no-whole-archive -o EasyCurl.exe -Wl,--out-implib,libEasyCurl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EasyCurl.dir\linkLibs.rsp

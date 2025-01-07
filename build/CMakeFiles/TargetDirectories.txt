@@ -1,3 +1,0 @@
-D:/Programming/Personal Projects/C Projects/Projects/EasyCurl/build/CMakeFiles/EasyCurl.dir
-D:/Programming/Personal Projects/C Projects/Projects/EasyCurl/build/CMakeFiles/edit_cache.dir
-D:/Programming/Personal Projects/C Projects/Projects/EasyCurl/build/CMakeFiles/rebuild_cache.dir
